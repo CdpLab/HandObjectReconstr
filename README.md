@@ -2,7 +2,7 @@
  Physical Constraints</h1>
 
 <p align="center">
-Jia Liu, Zirui Jiang, Jiahui Zhang, Lina Wei, Chengcheng Hua and Dapeng Chen,∗<br>
+Jia Liu, Zirui Jiang, Jiahui Zhang, Lina Wei, Chengcheng Hua and Dapeng Chen∗<br>
 Nanjing University of Information Science and Technology
 </p>
 
